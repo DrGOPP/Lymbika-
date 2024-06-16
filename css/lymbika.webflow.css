@@ -881,6 +881,17 @@ figcaption {
   box-shadow: 0 10px 10px -5px rgba(16, 64, 91, .1);
 }
 
+.link-block {
+  width: 100px;
+  height: 100px;
+  max-width: 100px;
+  position: fixed;
+  top: auto;
+  bottom: 0%;
+  left: auto;
+  right: 0%;
+}
+
 .property-types-menu {
   background-color: rgba(94, 204, 211, .2);
   border-radius: 20px;
